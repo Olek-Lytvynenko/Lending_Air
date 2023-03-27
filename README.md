@@ -1,3 +1,3 @@
 - This landing page was implemented according to this design from [Figma](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35).
 - The work was done using HTML and SCSS.
-- [DEMO](https://<your_account>.github.io/<repo_name>/)
+- [DEMO](https://olek-lytvynenko.github.io/Lending_Air/)
